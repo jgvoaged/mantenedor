@@ -1,0 +1,49 @@
+/* LOS ESTILOS CSS NOS PERMITEN MOLDEAR EL ASPECTO GRÁFICO DEL HTML PARA HACERLO MÁS BONITO */
+
+
+/* EL SIGUIENTE ESTILO COLOCA MARGENES DEL 10% DE LA PANTALLA AL ELEMENTO AL QUE SE LE PONGA.
+TAMBIEN LE PONE UN BORDE DE 3 PIXELES DOBLE */
+
+.cuerpo {
+    margin: 10%;
+    border: 3px medium double
+}
+
+
+/* LOS SIGUIENTES ESTILO ES PARA QUE LA TABLA DE LISTADO TENGA BORDES NEGROS DE 1 PIXEL */
+
+.listado {
+    border: 1px #000 solid;
+}
+
+.listado td {
+    border: 1px #000 solid;
+}
+
+.listado th {
+    border: 1px #000 solid;
+    width: 100px;
+}
+
+
+/* LOS SIGUIENTES ESTILOS SON PARA LA BOTONERA */
+
+.botonera {
+    margin: 2%;
+}
+
+.botonera button {
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+.campo {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.campo div {
+    width: 200px;
+    position: relative;
+    float: left;
+}

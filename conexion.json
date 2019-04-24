@@ -1,0 +1,7 @@
+{
+    "motor": "mysql",
+    "host": "localhost",
+    "basedatos": "crudxampp",
+    "usuario": "root",
+    "clave": ""
+}
